@@ -34,10 +34,7 @@ public class App {
                 maxNum = pies.get(i).yumminess;
             }
         
-        }
-
-        System.out.println("The biggest number is " + maxNum);
-     
+        }     
 
     }   
 
